@@ -5,9 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thomazrossito@gmail.com)](mailto:thomazrossito@gmail.com)
 
 
-## I am Big Data Engineer | Cloud Data Engineer | Data Architect | Databricks | Apache Spark | Data Scientist.
+## I am BI Specialist | Big Data Specialist | Data Analyst | Data Engineer | DataOps.
 
-### My focus is to solve business problems through Data Engineering, Data Architect, Cloud Data Engineer Architect, Apache Spark and Databricks.
+### My focus is to solve business problems through Business Intelligence, Data Engineering and Data Architect.
 
 <br>
 
