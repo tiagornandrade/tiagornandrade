@@ -10,9 +10,11 @@
 ### My focus is to solve business problems through Business Intelligence, Data Engineering and Data Architect.
 
 <br>
+
 <a href="https://www.credly.com/earner/earned/badge/01f48fdd-683c-4239-8aee-487c7f5b0145"> <img width = "170px" src = "https://images.credly.com/size/340x340/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png"> </a>
 
 <br>
+
 ## MBA / Especialização:
 
 > #### <code>Especialização em Business Intelligence e Big Data</code>
