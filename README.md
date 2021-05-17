@@ -12,12 +12,15 @@
 <br>
 
 <a href="https://www.credly.com/earner/earned/badge/01f48fdd-683c-4239-8aee-487c7f5b0145"> <img width = "170px" src = "https://images.credly.com/size/340x340/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png"> </a>
+<a href="https://www.credly.com/earner/earned/badge/1619bdd4-eeb4-4509-b5c3-d5bb9ef146f2"> <img width = "170px" src = "https://images.credly.com/size/340x340/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"> </a>
 
 <br>
 
 ## MBA / Especialização:
 
 > #### <code>Especialização em Business Intelligence e Big Data</code>
+> #### <code>Scrum Foundation Professional Certificate</code>
+> #### <code>Python for Data Science</code>
 
 <br>
 
