@@ -15,7 +15,7 @@
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/SQL.png"> </a>
 <a href="https://credentials.databricks.com/6e6af853-6fe4-4da8-84f1-3723b054cda1#gs.31x41j"> 
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/DTL.png"> </a>
-<a href="https://credentials.databricks.com/54044280-7325-41cd-b4c3-72cc9169686a#gs.in4ak9"> 
+<a href="https://academy.databricks.com/award/completion/aaa0a1c3-8690-33cc-8b6e-4992f148e37b/view-ext"> 
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
 <br>
 <a href="https://www.credly.com/earner/earned/badge/01f48fdd-683c-4239-8aee-487c7f5b0145"> <img width = "170px" src = "https://images.credly.com/size/340x340/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png"> </a>
