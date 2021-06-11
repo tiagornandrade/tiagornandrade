@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://academy.databricks.com/award/completion/aaa0a1c3-8690-33cc-8b6e-4992f148e37b/view-ext"> 
-<img width = "180px" src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpdf.ms.credential.net%2Fdesign%2Fimage%3Fsigned-data%3D%257B%2522design%2522%253A%2522304229ec-db68-4ede-8490-9958029c2a33%2522%252C%2522env%2522%253A%2522production%2522%252C%2522signature%2522%253A%2522e6f4387910ae0867709658c77bf2ca3606843b10bfcc6f11fe3ef02f31f61fdf%2522%257D&imgrefurl=https%3A%2F%2Fwww.credential.net%2Fgroup%2F227965&tbnid=0EPessnRbympCM&vet=12ahUKEwit4dfarpDxAhVZrZUCHdviDQwQMygDegUIARCjAQ..i&docid=n7KIR6TAoaETlM&w=400&h=400&q=Databricks%20Certified%20Associate%20Developer%20for%20Apache%20Spark&ved=2ahUKEwit4dfarpDxAhVZrZUCHdviDQwQMygDegUIARCjAQ"> </a>
+<img width = "180px" src = "https://ik.imagekit.io/z9ghon9bzwq/304229ec-db68-4ede-8490-9958029c2a33_e6f4387910ae0867709658c77bf2ca3606843b10bfcc6f11fe3ef02f31f61fdf_ODZU0diPBC.png"> </a>
 <a href="https://academy.databricks.com/award/completion/aaa0a1c3-8690-33cc-8b6e-4992f148e37b/view-ext"> 
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
 <br>
