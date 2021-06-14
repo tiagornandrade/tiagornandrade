@@ -11,6 +11,8 @@
 
 <br>
 
+<a href="https://academy.databricks.com/award/completion/fdbc140f-e59e-33c6-a300-2c73d77f60ed/view-ext"> 
+<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/DTL.png"> </a>
 <a href="https://academy.databricks.com/award/completion/6b1fada0-b687-30d8-b8ce-125d0052bd2c/view-ext"> 
 <img width = "180px" src = "https://ik.imagekit.io/z9ghon9bzwq/304229ec-db68-4ede-8490-9958029c2a33_e6f4387910ae0867709658c77bf2ca3606843b10bfcc6f11fe3ef02f31f61fdf_ODZU0diPBC.png"> </a>
 <a href="https://academy.databricks.com/award/completion/aaa0a1c3-8690-33cc-8b6e-4992f148e37b/view-ext"> 
