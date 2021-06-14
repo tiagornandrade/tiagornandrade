@@ -26,7 +26,6 @@
 
 > #### <code>Especialização em Business Intelligence e Big Data</code>
 > #### <code>Scrum Foundation Professional Certificate</code>
-> #### <code>Python for Data Science</code>
 
 <br>
 
