@@ -11,10 +11,10 @@
 
 <br>
 
-<a href="https://academy.databricks.com/award/completion/fdbc140f-e59e-33c6-a300-2c73d77f60ed/view-ext"> 
-<img width = "180px" src = "https://ik.imagekit.io/z9ghon9bzwq/f9917076-2166-4e5b-90f7-0f403f4fed39_357fff700fef6fffe43854febb8338858d607d5a9d590f693a051cdd3f8d2dbe_rvj2GFXH7B.png"> </a>
 <a href="https://academy.databricks.com/award/completion/6b1fada0-b687-30d8-b8ce-125d0052bd2c/view-ext"> 
 <img width = "180px" src = "https://ik.imagekit.io/z9ghon9bzwq/304229ec-db68-4ede-8490-9958029c2a33_e6f4387910ae0867709658c77bf2ca3606843b10bfcc6f11fe3ef02f31f61fdf_ODZU0diPBC.png"> </a>
+<a href="https://academy.databricks.com/award/completion/fdbc140f-e59e-33c6-a300-2c73d77f60ed/view-ext"> 
+<img width = "180px" src = "https://ik.imagekit.io/z9ghon9bzwq/f9917076-2166-4e5b-90f7-0f403f4fed39_357fff700fef6fffe43854febb8338858d607d5a9d590f693a051cdd3f8d2dbe_rvj2GFXH7B.png"> </a>
 <a href="https://academy.databricks.com/award/completion/aaa0a1c3-8690-33cc-8b6e-4992f148e37b/view-ext"> 
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
 <br>
@@ -25,7 +25,7 @@
 ## MBA / Especialização:
 
 > #### <code>Especialização em Business Intelligence e Big Data</code>
-> #### <code>Scrum Foundation Professional Certificate</code>
+> #### <code>Especialização em Engenharia e Administração de Sistemas de Banco de Dados</code>
 
 <br>
 
