@@ -13,7 +13,7 @@
 
 <a href="https://academy.databricks.com/award/completion/6b1fada0-b687-30d8-b8ce-125d0052bd2c/view-ext"> 
 <img width = "180px" src = "https://ik.imagekit.io/z9ghon9bzwq/304229ec-db68-4ede-8490-9958029c2a33_e6f4387910ae0867709658c77bf2ca3606843b10bfcc6f11fe3ef02f31f61fdf_ODZU0diPBC.png"> </a>
-<a href="https://credentials.databricks.com/6e6af853-6fe4-4da8-84f1-3723b054cda1#gs.31x41j"> 
+<a href="https://credentials.databricks.com/07b6fe3d-c7dc-44a5-b7b9-b873942e8dd8"> 
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/DTL.png"> </a>
 <a href="https://credentials.databricks.com/b5058d56-d8d6-423c-b27e-d7a725fe2a65"> 
 <img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
