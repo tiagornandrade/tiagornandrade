@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tiagornavarro@gmail.com)](mailto:tiagornavarro@gmail.com)
 
 
-## I am BI Specialist | Big Data Specialist | Data Engineer | Data Analyst | DataOps.
+## I am Data Engineer | Data Specialist | DataOps.
 
 ### My focus is to solve business problems through Business Intelligence, Data Engineering and Data Architect.
 
