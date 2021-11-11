@@ -31,8 +31,7 @@
 
 ## Contatos: 
 
-> #### <code> E-mail: tiagornandrade@hotmail.com </code> 
-> #### <code> Cel./WhatsApp: (71) 9 8844-2782 </code> 
+> #### <code> E-mail: contato@tiagonavarro.me </code> 
 > #### <code> Linkedin: <a href="https://www.linkedin.com/in/tiagornavarro/"> Tiago Navarro </a> </code>
 > #### <code> GitHub: <a href="https://github.com/tiagornandrade"> github.com/tiagornandrade </a> </code>
 
