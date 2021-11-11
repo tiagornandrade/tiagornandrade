@@ -32,7 +32,7 @@
 ## Contatos: 
 
 > #### <code> E-mail: contato@tiagonavarro.me </code> 
-> #### <code> site: <a href="https://www.tiagonavarro.me"> github.com/tiagornandrade </a> </code>
+> #### <code> site: <a href="https://www.tiagonavarro.me"> tiagonavarro.me </a> </code>
 > #### <code> Linkedin: <a href="https://www.linkedin.com/in/tiagornavarro/"> Tiago Navarro </a> </code>
 
 <!--
