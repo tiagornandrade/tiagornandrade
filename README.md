@@ -32,8 +32,8 @@
 ## Contatos: 
 
 > #### <code> E-mail: contato@tiagonavarro.me </code> 
+> #### <code> site: <a href="https://www.tiagonavarro.me"> github.com/tiagornandrade </a> </code>
 > #### <code> Linkedin: <a href="https://www.linkedin.com/in/tiagornavarro/"> Tiago Navarro </a> </code>
-> #### <code> GitHub: <a href="https://github.com/tiagornandrade"> github.com/tiagornandrade </a> </code>
 
 <!--
 **tiagornandrade/tiagornandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
