@@ -11,6 +11,8 @@
 
 <br>
 
+<a href="https://credentials.databricks.com/d4ad175d-b4de-417c-8733-a7ec93d5f939/view-ext"> 
+<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/SQL.png"> </a>
 <a href="https://academy.databricks.com/award/completion/6b1fada0-b687-30d8-b8ce-125d0052bd2c/view-ext"> 
 <img width = "180px" src = "https://ik.imagekit.io/z9ghon9bzwq/304229ec-db68-4ede-8490-9958029c2a33_e6f4387910ae0867709658c77bf2ca3606843b10bfcc6f11fe3ef02f31f61fdf_ODZU0diPBC.png"> </a>
 <a href="https://credentials.databricks.com/07b6fe3d-c7dc-44a5-b7b9-b873942e8dd8"> 
