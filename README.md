@@ -1,13 +1,7 @@
-# Hi there! I'm Tiago Ribeiro Navarro de Andrade 😀
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/tiagornavarro/)](https://www.linkedin.com/in/tiagornavarro/)
+<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/tiagornavarro/)](https://www.linkedin.com/in/tiagornavarro/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tiagornavarro)](https://twitter.com/tiagornavarro)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tiagornavarro@gmail.com)](mailto:tiagornavarro@gmail.com)
-
-
-## I am Data Engineer | Data Specialist | DataOps.
-
-### My focus is to solve business problems through Business Intelligence, Data Engineering and Data Architect.
 
 <br>
 
@@ -20,7 +14,23 @@
 <br>
 <a href="https://www.credly.com/earner/earned/badge/01f48fdd-683c-4239-8aee-487c7f5b0145">
 <img width = "170px" src = "https://images.credly.com/size/340x340/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png"> </a>
+-->
 
+Hi 👋 My name is Tiago Navarro
+==============================
+
+Senior Data Engineer
+--------------------
+<!--## Data Engineer | Data Specialist | DataOps.-->
+
+### My focus is to solve business problems through Business Intelligence, Data Engineering and Data Architect.
+
+With experience in structuring data sources using Python and Spark, I have developed data engineering projects, such as data warehouse and data lakes application, creation and maintenance of ETLs/ELTs - Pipelines/Orchestrations and construction of data visualizations with market tools. I have been working with on-prem environments and cloud platforms for the ingestion, transformation and availability of information, such as GCP, Azure and AWS. I contribute to the DataOps/DevOps culture and Lean and Agile methodologies.
+
+* 🌍  I'm based in Salvador
+* 🖥️  See my portfolio at [Tiago Navarro](http://tiagonavarro.me)
+* ✉️  You can contact me at [contato@tiagonavarro.me](mailto:contato@tiagonavarro.me)
+* 🚀  I'm currently working on [Stone Co](http://stone.co)
 <br>
 
 ## MBA / Especialização:
@@ -30,23 +40,29 @@
 
 <br>
 
-## Contatos: 
+### Skills
 
-> #### <code> E-mail: contato@tiagonavarro.me </code> 
-> #### <code> site: <a href="https://www.tiagonavarro.me"> tiagonavarro.me </a> </code>
-> #### <code> Linkedin: <a href="https://www.linkedin.com/in/tiagornavarro/"> Tiago Navarro </a> </code>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+</p>
 
-<!--
-**tiagornandrade/tiagornandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://www.github.com/tiagornandrade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/otiagonavarro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tiagornavarro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/otiagornavarro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/tiagornandrade"><img src="https://github-readme-stats.vercel.app/api?username=tiagornandrade&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tiagornandrade's GitHub stats" /></a>
+
+<a href="http://www.github.com/tiagornandrade"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagornandrade&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/tiagornandrade" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagornandrade&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
