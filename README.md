@@ -39,7 +39,7 @@ With experience in structuring data sources using Python and Spark, I have devel
 > #### <code>Especialização em Engenharia e Administração de Sistemas de Banco de Dados</code>
 
 <br>
-
+<!--
 ### Skills
 
 <p align="left">
@@ -56,7 +56,7 @@ With experience in structuring data sources using Python and Spark, I have devel
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/tiagornandrade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/otiagonavarro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tiagornavarro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/otiagornavarro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
-<!--
+
 ### Badges
 
 <b>My GitHub Stats</b>
