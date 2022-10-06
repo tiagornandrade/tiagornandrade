@@ -23,7 +23,7 @@ Senior Data Engineer
 --------------------
 <!--## Data Engineer | Data Specialist | DataOps.-->
 
-### My focus is to solve business problems through Business Intelligence, Data Engineering and Data Architect.
+### My focus is to solve business problems through Analytics, Data Engineering and Data Architect.
 
 With experience in structuring data sources using Python and Spark, I have developed data engineering projects, such as data warehouse and data lakes application, creation and maintenance of ETLs/ELTs - Pipelines/Orchestrations and construction of data visualizations with market tools. I have been working with on-prem environments and cloud platforms for the ingestion, transformation and availability of information, such as GCP, Azure and AWS. I contribute to the DataOps/DevOps culture and Lean and Agile methodologies.
 
