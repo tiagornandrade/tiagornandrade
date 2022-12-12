@@ -30,7 +30,7 @@ With experience in structuring data sources using Python and Spark, I have devel
 * 🌍  I'm based in Salvador
 * 🖥️  See my portfolio at [Tiago Navarro](http://tiagonavarro.me)
 * ✉️  You can contact me at [contato@tiagonavarro.me](mailto:contato@tiagonavarro.me)
-* 🚀  I'm currently working on [Stone Co](http://stone.co)
+* 🚀  I'm currently working on [RD Station](http://rdstation.com)
 <br>
 
 ## MBA / Especialização:
