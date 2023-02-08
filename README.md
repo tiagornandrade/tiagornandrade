@@ -16,11 +16,11 @@
 <img width = "170px" src = "https://images.credly.com/size/340x340/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png"> </a>
 -->
 
-Hi 👋 My name is Tiago Navarro
+Hi there 👋
 ==============================
 
-Senior Data Engineer
---------------------
+<!-- Senior Data Engineer
+-------------------- -->
 <!--## Data Engineer | Data Specialist | DataOps.-->
 
 ### My focus is to solve business problems through Analytics, Data Engineering and Data Architect.
