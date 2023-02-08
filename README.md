@@ -27,6 +27,7 @@ Senior Data Engineer
 
 With experience in structuring data sources using Python and Spark, I have developed data engineering projects, such as data warehouse and data lakes application, creation and maintenance of ETLs/ELTs - Pipelines/Orchestrations and construction of data visualizations with market tools. I have been working with on-prem environments and cloud platforms for the ingestion, transformation and availability of information, such as GCP, Azure and AWS. I contribute to the DataOps/DevOps culture and Lean and Agile methodologies.
 
+* 💻 Data Engineer, former BI Engineer, former Data Analyst
 * 🌍  I'm based in Salvador
 * 🖥️  See my portfolio at [Tiago Navarro](http://tiagonavarro.me)
 * ✉️  You can contact me at [contato@tiagonavarro.me](mailto:contato@tiagonavarro.me)
