@@ -22,4 +22,5 @@ I specialize in solving business challenges through the development of data prod
 > #### <code>Especialização em Business Intelligence e Big Data</code>
 > #### <code>Especialização em Engenharia e Administração de Sistemas de Banco de Dados</code>
 > #### <code>Especialização em Arquitetura de Dados</code>
+> #### <code>MBA em Engenharia de Software</code>
 <br>
