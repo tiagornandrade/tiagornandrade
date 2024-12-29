@@ -30,4 +30,4 @@ I specialize in solving business challenges through the development of data prod
 > #### 2021 - Senior Data Engineer @ PRODEB
 > #### 2021 - Senior Data Engineer @ Globo
 > #### 2022 - Senior Data Engineer @ Stone
-> #### Atual - Senior Data Platform Engineer @ RD Statio
+> #### Atual - Senior Data Platform Engineer @ RD Station
