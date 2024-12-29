@@ -10,11 +10,19 @@ I specialize in solving business challenges through the development of data prod
 * 🖥️  See my portfolio at [Tiago Navarro](http://tiagonavarro.me)  
 * ✉️  You can contact me at [contato@tiagonavarro.me](mailto:contato@tiagonavarro.me)  
 * 🚀  I'm currently working on [RD Station](http://rdstation.com)  
-<br>  
 
-## MBA / Especialização:  
+## Professional Certificate:  
 
-> - #### 2020: Especialização em Business Intelligence e Big Data
-> - #### 2023: Especialização em Engenharia e Administração de Sistemas de Banco de Dados
-> - #### Atual: Especialização em Arquitetura de Dados
-> - #### Atual: MBA em Engenharia de Software]
+> #### 2020 - Especialização em Business Intelligence e Big Data
+> #### 2023 - Especialização em Engenharia e Administração de Sistemas de Banco de Dados
+> #### Atual - Especialização em Arquitetura de Dados
+> #### Atual - MBA em Engenharia de Software
+
+## Professional Experience:  
+
+> #### 2019 - Mid-Level Data Engineer @ FIEB
+> #### 2020 - Mid-Level Data Engineer @ SEIS
+> #### 2021 - Senior Data Engineer @ PRODEB
+> #### 2021 - Senior Data Engineer @ Globo
+> #### 2022 - Senior Data Engineer @ Stone
+> #### Atual - Senior Data Platform Engineer @ RD Statio
