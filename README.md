@@ -14,7 +14,7 @@ I specialize in solving business challenges through the development of data prod
 
 ## MBA / Especialização:  
 
-#### 2018 - 2020: Especialização em Business Intelligence e Big Data
-#### 2021 - 2023: Especialização em Engenharia e Administração de Sistemas de Banco de Dados
-#### 2025 - Atual: Especialização em Arquitetura de Dados
-#### 2025 - Atual: MBA em Engenharia de Software]
+> #### 2018 - 2020: Especialização em Business Intelligence e Big Data
+> #### 2021 - 2023: Especialização em Engenharia e Administração de Sistemas de Banco de Dados
+> #### 2025 - Atual: Especialização em Arquitetura de Dados
+> #### 2025 - Atual: MBA em Engenharia de Software]
