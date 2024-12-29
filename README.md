@@ -24,7 +24,7 @@ I specialize in solving business challenges through the development of data prod
 > #### 2009 - Junior Data Analyst @ RCG
 > #### 2011 - Junior Data Analyst @ Insinuante
 > #### 2013 - Senior Data Engineer @ FNP
-> #### 2019 - Freelance @ Tiago Navarro
+> #### 2019 - Freelance (BI Engineer) @ Tiago Navarro
 > #### 2019 - Mid-Level Data Engineer @ FIEB
 > #### 2020 - Mid-Level Data Engineer @ SEIS
 > #### 2021 - Senior Data Engineer @ PRODEB
