@@ -17,17 +17,3 @@ I specialize in solving business challenges through the development of data prod
 > #### 2023 - Especialização em Engenharia e Administração de Sistemas de Banco de Dados
 > #### Atual - Especialização em Arquitetura de Dados
 > #### Atual - MBA em Engenharia de Software
-
-## Professional Experience:  
-
-> #### 2007 - Junior Sysadmin @ Maxirede
-> #### 2009 - Junior Data Analyst @ RCG
-> #### 2011 - Junior Data Analyst @ Insinuante
-> #### 2013 - Senior Data Engineer @ FNP
-> #### 2019 - Freelance (BI Engineer) @ Tiago Navarro
-> #### 2019 - Mid-Level Data Engineer @ FIEB
-> #### 2020 - Mid-Level Data Engineer @ SEIS
-> #### 2021 - Senior Data Engineer @ PRODEB
-> #### 2021 - Senior Data Engineer @ Globo
-> #### 2022 - Senior Data Engineer @ Stone
-> #### Atual - Senior Data Platform Engineer @ RD Station
