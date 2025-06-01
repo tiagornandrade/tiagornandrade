@@ -78,8 +78,7 @@
 | Ano  | Curso                                                              |
 |------|--------------------------------------------------------------------|
 | 2020 | Especialização em Business Intelligence e Big Data                |
-| 2023 | Especialização em Engenharia e Administração de Sistemas de Banco de Dados |
-| Atual | Especialização em Arquitetura de Dados                            |
+| 2023 | Especialização em Engenharia e Administração de Sistemas de Banco de Dados |                            |
 | Atual | MBA em Engenharia de Software                                     |
 
 ---
