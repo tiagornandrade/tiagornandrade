@@ -36,8 +36,8 @@
   ![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
   ![CloudSQL](https://img.shields.io/badge/CloudSQL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
   ![Spanner](https://img.shields.io/badge/Spanner-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Dataproc](https://img.shields.io/badge/Google%20Cloud-Dataproc-blue?logo=googlecloud)
-  ![Vertex AI](https://img.shields.io/badge/Google%20Cloud-Vertex%20AI-ff6f00?logo=googlecloud&logoColor=white)
+  ![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+  ![Vertex AI](https://img.shields.io/badge/Vertex_AI-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 - **Orchestration & Workflow**  
   ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
@@ -46,7 +46,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
   ![Apache Beam](https://img.shields.io/badge/Apache_Beam-F37B00?style=for-the-badge&logo=apache&logoColor=white)
-  ![Apache Spark](https://img.shields.io/badge/Powered_by-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 - **Change Data Capture (CDC)**  
   ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
@@ -66,7 +66,7 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
   ![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white)
-  ![Argo CD](https://img.shields.io/badge/Powered_by-Argo%20CD-ef7b4d?logo=argo&logoColor=white)
+  ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 - **CI/CD**  
   ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
@@ -74,7 +74,7 @@
 - **Infrastructure as Code (IaC)**  
   ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
   ![Atlantis](https://img.shields.io/badge/Atlantis-2F9DDB?style=for-the-badge&logo=atlantis&logoColor=white)
-  ![Pulumi](https://img.shields.io/badge/Infrastructure-Pulumi-402090?logo=pulumi&logoColor=white)
+  ![Pulumi](https://img.shields.io/badge/Pulumi-402090?style=for-the-badge&logo=pulumi&logoColor=white)
 
 ---
 
